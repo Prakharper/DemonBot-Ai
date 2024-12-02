@@ -9,8 +9,8 @@ import axios from 'axios'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['50557865603', 'WillZek', true],
-  ['50557865603', 'CrowBot-Ai', true]
+  ['584241836217', 'prak harper', true],
+  ['584241836217', '𝕯𝐄𝐌Ọ𝐍 𝐁Ọ𝐓', true]
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -21,12 +21,12 @@ global.prems = []
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.packname = `[ Sticker Maker`
-global.author = '🌠 Crow Ai WhatsApp Bot ]'
-global.wait = '🚩 *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛ𝙾... ฅ^•ﻌ•^ฅ*'
-global.botname = '[ 𝐂𝐫𝐨𝐰 𝐀𝐢 𝐖𝐡𝐚𝐬𝐀𝐩𝐩 𝐁𝐨𝐭 ]'
-global.textbot = `Powered By WillZek`
+global.author = '🩸 𝕯𝐄𝐌Ọ𝐍 𝐁Ọ𝐓 WhatsApp Bot ]'
+global.wait = '🩸 *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛ𝙾... ฅ^•ﻌ•^ฅ*'
+global.botname = '[ 𝕯𝐄𝐌Ọ𝐍 𝐁Ọ𝐓 𝐖𝐡𝐚𝐬𝐀𝐩𝐩  ]'
+global.textbot = `Powered By Prak Harper`
 global.listo = '*Aqui tiene ฅ^•ﻌ•^ฅ*'
-global.namechannel = '𝐓𝐇𝐄 𝐂𝐑𝐎𝐖𝐁𝐎𝐓-𝐀𝐈 🌠'
+global.namechannel = '𝐓𝐇𝐄 𝕯𝐄𝐌Ọ𝐍 𝐁Ọ𝐓 🩸'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
