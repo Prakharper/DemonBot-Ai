@@ -32,11 +32,11 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/WillZek/CrowBot-Ai.git"
+        "url": "git+https://github.com/prakharper/DemonBot-Ai.git"
     },
     "bugs": {
         "url":
-"https://github.com/WillZek/CrowBot-Ai/issues"
+"https://github.com/prakharper/DemonBot-Ai/issues"
     },
     "license": "MIT",
     "dependencies": {
