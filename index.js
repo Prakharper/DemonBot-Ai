@@ -23,7 +23,7 @@ font: 'chrome',
 align: 'center',
 colors: ['red']
 });
-say(`Developed By • prak Harper`, {
+say(`Developed By • prak+Harper`, {
 font: 'console',
 align: 'center',
 colors: ['magenta']
@@ -77,4 +77,4 @@ console.warn('🖤 Se excedió el límite de Listeners en:');
 console.warn(warning.stack);
 }
 });
-start( crow.js');
+start('crow.js');
