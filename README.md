@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bienvenidos%20-%20Crow%20Bot%20Ai🌠&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/> 
 
 > ⌛ Versión Actual: 1.0.0
- ## 💛 **`C R O W - A I`**
+ ## 🩸 **`D E M O N B O T`**
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -21,7 +21,7 @@
 
 <a href="https://github.com/WillZek"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=C88EFF&width=435&lines=CLONA+EL+REPOSITORIO+" alt="Typing SVG" /></a> 
 **`PORFAVOR DEJAR CREDITOS`** 
-[**Aqui**](https://github.com/WillZek/CrowBot-Ai/fork)
+[**Aqui**](https://github.com/prak Harper/Demon-bot/fork)
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
