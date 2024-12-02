@@ -13,7 +13,7 @@ const require = createRequire(__dirname);
 const { name, description, author, version } = require(join(__dirname, './package.json'));
 const { say } = cfonts;
 const rl = createInterface(process.stdin, process.stdout);
-say('CrowBot\nBot', {
+say('Demonbot\nBot', {
 font: 'block',
 align: 'center',
 colors: ['white']
@@ -23,7 +23,7 @@ font: 'chrome',
 align: 'center',
 colors: ['red']
 });
-say(`Developed By • Niño Piña`, {
+say(`Developed By • prak Harper`, {
 font: 'console',
 align: 'center',
 colors: ['magenta']
@@ -57,7 +57,7 @@ break;
 });
 p.on('exit', (_, code) => {
 isRunning = false;
-console.error('🚩 Error:\n', code);
+console.error('🩸 Error:\n', code);
 process.exit();
 if (code === 0) return;
 watchFile(args[0], () => {
@@ -73,8 +73,8 @@ p.emit('message', line.trim());
 }
 process.on('warning', (warning) => {
 if (warning.name === 'MaxListenersExceededWarning') {
-console.warn('🚩 Se excedió el límite de Listeners en:');
+console.warn('🖤 Se excedió el límite de Listeners en:');
 console.warn(warning.stack);
 }
 });
-start('crow.js');
+start( Demon.js');
