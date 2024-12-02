@@ -44,7 +44,7 @@
 
 ### **`🩸 𝘊𝘙𝘌𝘈𝘋𝘖𝘙`**
 <a
-href="https://github.com/WillZek"><img src="https://github.com/WillZek.png" width="130" height="130" alt="WillZek"/></a>
+href="https://github.com/prakharper"><img src="https://github.com/prakharper.png" width="130" height="130" alt="WillZek"/></a>
 
 <a
 href="ninopina10@gmail.com" target="blue"><img
