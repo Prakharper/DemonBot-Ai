@@ -40,7 +40,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=FF0000&lines=Espero+Este+Repositorio;Sea+De+Su+agrado+gracias🫂;Creado+por+Mr.|Prak Harper;🩸)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=FF0000&lines=Espero+Este+Repositorio;Sea+De+Su+agrado+gracias🫂;Creado+por+Mr.|Prak+Harper;🩸)](https://git.io/typing-svg)
 
 ### **`🩸 𝘊𝘙𝘌𝘈𝘋𝘖𝘙`**
 <a
