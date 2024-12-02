@@ -2,13 +2,13 @@ import fetch from 'node-fetch'
 
 export async function before(m, { conn }) {
 let name = '𝕯𝐄𝐌Ọ𝐍 𝐁Ọ𝐓'
-let imagenes = ["https://i.ibb.co/JmcS3kv/Sylph.jpg",
-"https://i.ibb.co/Cs6Tt9V/Sylph.jpg",
-"https://i.ibb.co/JmcS3kv/Sylph.jpg",
-"https://i.ibb.co/Cs6Tt9V/Sylph.jpg",
-"https://i.ibb.co/JmcS3kv/Sylph.jpg",
-"https://i.ibb.co/Cs6Tt9V/Sylph.jpg",
-"https://i.ibb.co/JmcS3kv/Sylph.jpg"]
+let imagenes = ["https://i.ibb.co/NLBNkBZ/file.jpg",
+"https://i.ibb.co/mJcV846/file.jpg",
+"https://i.ibb.co/5B3sY0m/file.jpg",
+"https://i.ibb.co/8dWq0Z4/file.jpg",
+"https://i.ibb.co/Kz2Q29H/file.jpg",
+"https://i.ibb.co/v1HS7MR/file.jpg",
+"https://i.ibb.co/MsCpYBD/file.jpg"]
 
 let icono = imagenes[Math.floor(Math.random() * imagenes.length)]
 
