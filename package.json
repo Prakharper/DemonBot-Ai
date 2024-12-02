@@ -26,17 +26,17 @@
         "PrakBot",
         "baileys-md"
     ],
-    "homepage": "https://github.com/prakharper/DemonBot-Ai",
+    "homepage": "https://github.com/Prakharper/DemonBot-Ai",
     "author": {
-        "name": "WillZek"
+        "name": "prak+harper"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/prakharper/DemonBot-Ai.git"
+        "url": "https://github.com/Prakharper/DemonBot-Ai"
     },
     "bugs": {
         "url":
-"https://github.com/prakharper/DemonBot-Ai/issues"
+"https://github.com/Prakharper/DemonBot-Ai"
     },
     "license": "MIT",
     "dependencies": {
