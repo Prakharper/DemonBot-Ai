@@ -9,7 +9,7 @@ const handler = async (m, {isOwner, isAdmin, conn, text, participants, args, com
   const pesan = args.join` `;
 const oi = `⇢=͟͟͞͞𝗔𝚟𝚒𝚜𝚘 :  : ${pesan}`;
   let teks = `▭ ㅤ  ꯭꯭𝗥𝗘𝗩𝗜𝗩𝗔𝗡     ̸ ❲ 寶貝 ❳ ₊ 𝗣𝗘Ø𝗡𝗘𝗦
- "\n  ⧼P̼⧽= ${participants.length} ⧼P̼⧽=\n\n ${oi}\n\n╭────────🩸───────𖥔 \n`;
+ "\n  ⧼P̼⧽= ${participants.length} =\n\n ${oi}\n\n╭────────🩸───────𖥔 \n`;
   for (const mem of participants) {
     teks += `│ ❏ᝰ. @${mem.id.split('@')[0]}\n`;
   }
