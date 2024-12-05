@@ -405,7 +405,7 @@ conn: this,
 
 global.dfail = (type, m, conn, usedPrefix) => {
     let msg = {
-        rowner: "> _*`Perdón, Este comando es solo para mi Owner.`*_",
+        rowner: "> _*`Perdón. Este comando es solo para mi Owner, no insistas.`*_",
         owner: "> _*`Perdón, Solo mi creador puede usar este comando.`*_",
         mods: "> _*`perdón, Este comando solo es para mods`*_",
         premium: "> _*`No eres un usuario Premium, Habla con mi owner`*_",
