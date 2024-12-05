@@ -405,16 +405,16 @@ conn: this,
 
 global.dfail = (type, m, conn, usedPrefix) => {
     let msg = {
-        rowner: "> _*`Perdon, Este comando es solo para mi Owner.`*_",
-        owner: "> _*`Perdon, Solo mi creador puede usar este comando.`*_",
-        mods: "> _*`Perdon, Este comando solo es para mods`*_",
+        rowner: "> _*`Perdón, Este comando es solo para mi Owner.`*_",
+        owner: "> _*`Perdón, Solo mi creador puede usar este comando.`*_",
+        mods: "> _*`perdón, Este comando solo es para mods`*_",
         premium: "> _*`No eres un usuario Premium, Habla con mi owner`*_",
-        group: "> _*`Perdon, Este comando solo es para grupos`*_",
+        group: "> _*`Perdón, Este comando solo es para grupos`*_",
         private: "> _*`Ve a mi chat privado y usa este comando`*_",
         admin: "> _*`Quien eres?, tu no eres admin`*_",
         botAdmin: "> _*`Es necesario que sea admin primero para usar esta función`*_",
         unreg: "> _*`‼️USUARIO NO REGISTRADO‼️`*_\n\n`Para registrarse:`\n\n> .reg nombre.edad\n\n`Ejemplo:`\n\n> .reg WillZek. 18",
-        restrict: "> _*`Comando desactivado por mi Owner`*_" 
+        restrict: "> _*`Comando desactivado por mi creador`*_" 
     }[type]
     if (msg) return conn.reply(m.chat, msg, m, rcanal).then(_ => m.react('✖️'))
 }
