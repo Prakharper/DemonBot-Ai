@@ -25,7 +25,6 @@ let tags = {
   'main': '❗ INFO ❕',
   'search': '🔎 SEARCH 🔍',
   'game': '🕹️ GAME 🎮',
-  'serbot': '⚙️ SUB BOTS 🤖',
   'rpg': '🌐 RPG 🥇',
   'rg': '🎑 REGISTRO 🎟️',
   'sticker': '💟 STICKER 🏷️',
