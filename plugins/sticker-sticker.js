@@ -39,9 +39,9 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
     else return conn.reply(m.chat, '🚩 Responda a una *Imagen* o *Vídeo.*', m, rcanal)
   }
 }
-handler.help = ['sticker']
+handler.help = ['sticker2']
 handler.tags = ['sticker']
-handler.command = ['s', 'sticker', 'stiker'] 
+handler.command = ['s2', 'sticker2', 'stiker2'] 
 
 export default handler
 
