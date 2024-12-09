@@ -48,7 +48,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
     }
   } catch (e) {
     console.error(e)
-    m.reply('Error ${error.message};')
+    m.reply('Error ${error.message}')
   }
 }
 
