@@ -48,7 +48,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
     }
   } catch (e) {
     console.error(e)
-   await return m.reply(m.chat 'Error {error.message}, m');
+   await return m.reply(m.chat, 'Error {error.message}', m);
   }
 }
 
