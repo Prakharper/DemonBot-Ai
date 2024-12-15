@@ -31,6 +31,7 @@ global.stickpack = '© DemonBot'
 global.stickauth = 'By Prak Harper'
 global.wait = '🩸 *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛ𝙾... ฅ^•ﻌ•^ฅ*'
 global.botname = '[ 𝕯𝐄𝐌Ọ𝐍 𝐁Ọ𝐓 𝐖𝐡𝐚𝐬𝐀𝐩𝐩  ]'
+global.wm = 'ThePrakBot-Ai 🌠'
 global.textbot = `Powered By Prak Harper`
 global.listo = '*Aqui tiene ฅ^•ﻌ•^ฅ*'
 global.namechannel = '𝐓𝐇𝐄 𝕯𝐄𝐌Ọ𝐍 𝐁Ọ𝐓 🩸'
