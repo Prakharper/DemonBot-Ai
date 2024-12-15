@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bienvenidos%20-%20Crow%20Bot%20Ai🌠&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bienvenidos%20-%20Demon%20Bot%20Ai🩸&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/> 
 
 > ⌛ Versión Actual: 1.0.0
  ## 🩸 **`D E M O N B O T`**
@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines= WillZek+lanzó ;Nueva+versión+beta ; By:+Niño Piña ; y+StarCore+Team;CrowBot+Ai-El+Mejor+Bot!&font=Fira%20Code&center=true&width=380&height=50&duration=2000&pause=600" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines= Prak+Harper+lanzó ;Nueva+versión+beta ; By:+StarCore+Team;¡DemonBot+Ai-El+Mejor+Bot!&font=Fira%20Code&center=true&width=380&height=50&duration=2000&pause=600" alt="Example Usage - README Typing SVG">
 </p>
 
 <!-- RAINBOW LINE BOT -->
