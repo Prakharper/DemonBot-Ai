@@ -3,6 +3,8 @@
 > ⌛ Versión Actual: 1.0.0
  ## 🩸 **`D E M O N B O T`**
 
+<detaly>
+
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
