@@ -6,11 +6,7 @@
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<details>
-
 ![Menú Principal](https://i.ibb.co/y5LqMDY/file.jpg)
-
-<details>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines= Prak+Harper+lanzó ;Nueva+versión+beta ; By:+StarCore+Team;¡DemonBot-Ai+El+Mejor+Bot!&font=Fira%20Code&center=true&width=380&height=50&duration=2000&pause=600" alt="Example Usage - README Typing SVG">
