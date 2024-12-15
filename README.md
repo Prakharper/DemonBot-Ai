@@ -7,7 +7,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-![Menú Principal](https://telegra.ph/file/b346b44893d4613a72f98.jpg)
+![Menú Principal](https://i.ibb.co/y5LqMDY/file.jpg)
 
 
 
