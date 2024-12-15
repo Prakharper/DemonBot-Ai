@@ -32,7 +32,7 @@
 <details>
 <summary><b> 👉 Canal Del Team</b></summary>
 
--# **StarCore:** [**`Aquí`**](https://whatsapp.com/channel/0029VankMyeBadmR9Ou0So3t)
+#- **StarCore:** [**`Aquí`**](https://whatsapp.com/channel/0029VankMyeBadmR9Ou0So3t)
 
 </details>
 
