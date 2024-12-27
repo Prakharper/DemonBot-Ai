@@ -199,6 +199,29 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
     let pp15 = 'https://i.ibb.co/MsCpYBD/file.jpg'
     let img = 'https://i.ibb.co/NLBNkBZ/file.jpg'
     await m.react('🩸')
+
+global.rcanal = {
+ contextInfo: {
+             isForwarded: true,
+    forwardedNewsletterMessageInfo: {
+      newsletterJid: "120363317263885467@newsletter",
+      serverMessageId: 100,
+      newsletterName: name,
+   }, 
+   externalAdReply: {
+    showAdAttribution: true, 
+    title: botname, 
+    body: textbot, 
+    mediaUrl: null, 
+    description: null, 
+    previewType: "PHOTO", 
+    thumbnailUrl: icono, 
+    sourceUrl: canal, 
+    mediaType: 1, 
+    renderLargerThumbnail: false }, 
+    }, 
+    }
+
    // await conn.sendMessage(m.chat, { video: { url: [pp, pp2, pp3, pp4, pp5, pp6, pp7, pp8, pp9, pp10, pp11, pp12, pp13, pp14, pp15].getRandom() }, gifPlayback: true, caption: text.trim(), mentions: [m.sender] }, { quoted: estilo })
     await conn.sendFile(m.chat, img, 'thumbnail.jpg', text.trim(), m, null, rcanal)
    //await conn.sendAi(m.chat, botname, textbot, text.trim(), img, img, canal, estilo)
