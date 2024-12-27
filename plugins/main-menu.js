@@ -200,6 +200,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
     let img = 'https://i.ibb.co/NLBNkBZ/file.jpg'
     await m.react('🩸')
 
+let name = '𝕯𝐄𝐌Ọ𝐍 𝐁Ọ𝐓'
 let imagenes = ["https://i.ibb.co/NLBNkBZ/file.jpg",
 "https://i.ibb.co/mJcV846/file.jpg",
 "https://i.ibb.co/5B3sY0m/file.jpg",
