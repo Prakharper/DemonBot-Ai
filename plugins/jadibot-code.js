@@ -86,7 +86,7 @@ let handler = async (m, { conn: _conn, args, usedPrefix, command, isOwner }) => 
             txt += `│  🌠  *2* : Toque dispositivos vinculados\n`
             txt += `│  🌠  *3* : Selecciona *Vincular con el número de teléfono*\n` 
             txt += `└  🌠  *4* : Escriba el Codigo\n\n`
-            txt += `*👑Nota:* Este Código solo funciona en el número en el que se solicitó\n\n> *Sigan El Canal*\n> ${channel}`;
+            txt += `*👑Nota:* Este Código solo funciona en el número en el que se solicitó`;
         await parent.reply(m.chat, txt, m);
         await parent.reply(m.chat, codeBot, m);
         rl.close();
