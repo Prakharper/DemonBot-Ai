@@ -48,32 +48,32 @@ const defaultMenu = {
 > 「 ${textbot} あ⁩ 」\n
 
 ›   ╭━┄━┄━┄━┄━┄━┄╮.⠈.
-›   :･ ⃕✝︎ 𝐃̶͞𝐄𝐌̶͞𝐎𝐍 𝐁Ọ𝐓. 
+›   :･ ⃕✝︎ 𝕯𝖊𝖒𝖔𝖓 𝐁Ọ𝐓. 
 ›   ╰── ✝︎ ──.
 ╭━─━─━─≪✞︎≫─━─━─━╮
-┃✰ ➬ *Cliente:* %name
-┃✰ ➬ *Estrellas:* %limit
-┃✰ ➬ *Nivel:* %level [ %xp4levelup Xp Para Subir De Nivel]
-┃✰ ➬ *Xp:* %exp / %maxexp
-┃✰ ➬ *TotalXp:* %totalexp
+┃✰ ♕︎ *Cliente:* %name
+┃✰ ♕︎ *Estrellas:* %limit
+┃✰ ♕︎ *Nivel:* %level [ %xp4levelup Xp Para Subir De Nivel]
+┃✰ ♕︎ *Xp:* %exp / %maxexp
+┃✰ ♕︎ *TotalXp:* %totalexp
  ╰━─━─━─≪✞︎≫─━─━─━╯
 ╔──────¤☠︎︎¤──────╗
 ┋#    ✦   * 𝐈 𝐍 𝐅 𝐎 ‹‹❑ౄ*
 ╚──────¤☠︎︎¤─────╝
 ╭━─━─━─≪𓁹≫─━─━─━╮
-┃✰ ➬ *Modo:* %mode
-┃✰ ➬ *Prefijo:* [ *%_p* ]
-┃✰ ➬ *Rutina:* %muptime 
-┃✰ ➬ *Database:*  %totalreg
+┃✰ ♕︎ *Modo:* %mode
+┃✰ ♕︎ *Prefijo:* [ *%_p* ]
+┃✰ ♕︎ *Rutina:* %muptime 
+┃✰ ♕︎ *Database:*  %totalreg
 ╰━─━─━─≪𓁹≫─━─━─━╯
      
-   ⏤͟͟͞͞☠︎︎𝕯𝐄𝐌Ọ𝐍 𝐁Ọ𝐓☠︎︎𓅓
+   ⏤͟͟͞͞☠𝕯𝖊𝖒𝖔𝖓 𝐁Ọ𝐓☠︎︎𓅓
 ◆━━━━━━━▣✦▣━━━━━━━━◆ 
  %readmore
 \t\t\t_*𝐋𝐈𝐒𝐓𝐀 𝐃𝐄 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒*_ ﭢ
 `.trimStart(),
   header: '╭═════⊹⊱≼「 *%category* 」≽⊰⊹════•',
-  body: '┃➤› ✧ . %cmd %islimit %isPremium\n',
+  body: '┃✯› ,🎩 . %cmd %islimit %isPremium\n',
   footer: '╰═════⊹⊱≼≽⊰⊹═════╯',
   after: `© ${textbot}`,
 }
@@ -197,17 +197,16 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
     let pp13 = 'https://i.ibb.co/v1HS7MR/file.jpg'
     let pp14 = 'https://i.ibb.co/MsCpYBD/file.jpg'
     let pp15 = 'https://i.ibb.co/MsCpYBD/file.jpg'
-    let img = 'https://i.ibb.co/NLBNkBZ/file.jpg'
-    await m.react('🩸')
+    let img = 'https://i.ibb.co/pdkgpDQ/file.jpg'
+    await m.react('🎩')
 
-let name = '𝕯𝐄𝐌Ọ𝐍 𝐁Ọ𝐓'
-let imagenes = ["https://i.ibb.co/NLBNkBZ/file.jpg",
-"https://i.ibb.co/mJcV846/file.jpg",
-"https://i.ibb.co/5B3sY0m/file.jpg",
-"https://i.ibb.co/8dWq0Z4/file.jpg",
-"https://i.ibb.co/Kz2Q29H/file.jpg",
-"https://i.ibb.co/v1HS7MR/file.jpg",
-"https://i.ibb.co/MsCpYBD/file.jpg"]
+let imagenes = ["https://files.catbox.moe/aitrwl.jpg",
+"https://files.catbox.moe/say0dh.jpg",
+"https://files.catbox.moe/9gylyb.jpg",
+"https://files.catbox.moe/53hv9g.jpg",
+"https://files.catbox.moe/sonk72.jpg",
+"https://files.catbox.moe/aitrwl.jpg",
+"https://files.catbox.moe/say0dh.jpg"]
 
 let icono = imagenes[Math.floor(Math.random() * imagenes.length)]
 
@@ -238,7 +237,7 @@ global.rcanal = {
    //await conn.sendAi(m.chat, botname, textbot, text.trim(), img, img, canal, estilo)
 
   } catch (e) {
-    conn.reply(m.chat, `❎ Lo sentimos, el menú tiene un error. ${e.message}`, m)
+   conn.reply(m.chat, `Error: ${e.message}`, m)
     throw e
   }
 }
