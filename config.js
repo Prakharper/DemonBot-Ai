@@ -15,6 +15,7 @@ global.owner = [
   ['50557865603',  'WillZek🍍', true],
   ['529983694618',  'Aamon🩸', true],
   ['529983694618', 'Soporte', true],
+  ['529983694618', 'xD', true],
   ['593968263524', 'Gata Dios', true]
 ]
 
