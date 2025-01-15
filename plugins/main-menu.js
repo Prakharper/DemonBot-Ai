@@ -200,13 +200,13 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
     let img = 'https://i.ibb.co/N9fvx1c/file.jpg'
     await m.react('🎩')
 
-let imagenes = ["https://files.catbox.moe/aitrwl.jpg",
-"https://files.catbox.moe/say0dh.jpg",
-"https://files.catbox.moe/9gylyb.jpg",
-"https://files.catbox.moe/53hv9g.jpg",
-"https://files.catbox.moe/sonk72.jpg",
-"https://files.catbox.moe/aitrwl.jpg",
-"https://files.catbox.moe/say0dh.jpg"]
+let imagenes = ["https://i.ibb.co/NLBNkBZ/file.jpg",
+"https://i.ibb.co/mJcV846/file.jpg",
+"https://i.ibb.co/5B3sY0m/file.jpg",
+"https://i.ibb.co/8dWq0Z4/file.jpg",
+"https://i.ibb.co/Kz2Q29H/file.jpg",
+"https://i.ibb.co/v1HS7MR/file.jpg",
+"https://i.ibb.co/MsCpYBD/file.jpg"]
 
 let icono = imagenes[Math.floor(Math.random() * imagenes.length)]
 
