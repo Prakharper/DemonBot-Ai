@@ -48,7 +48,7 @@ const defaultMenu = {
 > 「 ${textbot} あ⁩ 」\n
 
 ›   ╭━┄━┄━┄━┄━┄━┄╮.⠈.
-›   :･ ⃕✝︎ 𝕯𝖊𝖒𝖔𝖓 𝐁Ọ𝐓. 
+›   :･ ⃕✝︎ 𝕯𝐄𝐌Ọ𝐍 𝐁Ọ𝐓. 
 ›   ╰── ✝︎ ──.
 ╭━─━─━─≪✞︎≫─━─━─━╮
 ┃✰ ♕︎ *Cliente:* %name
@@ -67,13 +67,13 @@ const defaultMenu = {
 ┃✰ ♕︎ *Database:*  %totalreg
 ╰━─━─━─≪𓁹≫─━─━─━╯
      
-   ⏤͟͟͞͞☠𝕯𝖊𝖒𝖔𝖓 𝐁Ọ𝐓☠︎︎𓅓
+   ⏤͟͟͞͞☠𝕯𝐄𝐌Ọ𝐍 𝐁Ọ𝐓☠︎︎𓅓
 ◆━━━━━━━▣✦▣━━━━━━━━◆ 
  %readmore
 \t\t\t_*𝐋𝐈𝐒𝐓𝐀 𝐃𝐄 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒*_ ﭢ
 `.trimStart(),
   header: '╭═════⊹⊱≼「 *%category* 」≽⊰⊹════•',
-  body: '┃✯› ,🎩 . %cmd %islimit %isPremium\n',
+  body: '┃✯› ,🩸 . %cmd %islimit %isPremium\n',
   footer: '╰═════⊹⊱≼≽⊰⊹═════╯',
   after: `© ${textbot}`,
 }
@@ -198,7 +198,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
     let pp14 = 'https://i.ibb.co/MsCpYBD/file.jpg'
     let pp15 = 'https://i.ibb.co/MsCpYBD/file.jpg'
     let img = 'https://i.ibb.co/N9fvx1c/file.jpg'
-    await m.react('🎩')
+    await m.react('🩸')
 
 let imagenes = ["https://i.ibb.co/NLBNkBZ/file.jpg",
 "https://i.ibb.co/mJcV846/file.jpg",
