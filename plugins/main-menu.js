@@ -182,7 +182,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
    }
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
 
-    let pp = 'https://i.ibb.co/NLBNkBZ/file.jpg'
+    let pp = 'https://files.catbox.moe/s1wxym.jpg'
     let pp2 = 'https://i.ibb.co/NLBNkBZ/file.jpg'
     let pp3 = 'https://i.ibb.co/mJcV846/file.jpg'
     let pp4 = 'https://i.ibb.co/mJcV846/file.jpg'
@@ -197,10 +197,10 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
     let pp13 = 'https://i.ibb.co/v1HS7MR/file.jpg'
     let pp14 = 'https://i.ibb.co/MsCpYBD/file.jpg'
     let pp15 = 'https://i.ibb.co/MsCpYBD/file.jpg'
-    let img = 'https://i.ibb.co/tKD4sPB/file.jpg'
+    let img = 'https://files.catbox.moe/s1wxym.jpg'
     await m.react('🩸')
 
-let imagenes = ["https://i.ibb.co/NLBNkBZ/file.jpg",
+let imagenes = ["https://files.catbox.moe/s1wxym.jpg",
 "https://i.ibb.co/mJcV846/file.jpg",
 "https://i.ibb.co/5B3sY0m/file.jpg",
 "https://i.ibb.co/8dWq0Z4/file.jpg",
